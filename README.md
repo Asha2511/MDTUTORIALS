@@ -6,6 +6,6 @@ Don't put tabs or spaces in front of your paragraphs.
 
 I just love **bold text**.
 
-[screen shot](pic 1.png)
+
 
 
