@@ -8,5 +8,7 @@ I just love **bold text**.
 
 ![screenshot](pic1.png)
 
+![screenshot](pic 1.png)
+
 
 
