@@ -6,6 +6,4 @@ Don't put tabs or spaces in front of your paragraphs.
 
 I just love **bold text**.
 
-I really like using Markdown.
-pic 1.png
 
